@@ -1,6 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/59fd3cd91939a427cac708b992cad301/tumblr_ohx2xpUsAJ1v1vxovo1_1280.gif)](https://www.frontendmentor.io/profile/KurtSotto) 
 <h1 align="center">Hi 👋, I'm Kurt Cagulang</h1>
-<h3 align="center">A passionate frontend developer from Cebu, Philippines</h3>
+<h3 align="center">A passionate full stack developer from Cebu, Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurtsotto&label=Profile%20views&color=0e75b6&style=flat" alt="kurtsotto" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kurtcagulang@gmail.com** 
 
-- ⚡ Fun fact **Im a fookin gymrat hell yeah**
+- ⚡ Fun fact **buset world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
