@@ -1,15 +1,15 @@
 [![MasterHead](https://64.media.tumblr.com/59fd3cd91939a427cac708b992cad301/tumblr_ohx2xpUsAJ1v1vxovo1_1280.gif)](https://www.frontendmentor.io/profile/KurtSotto) 
 <h1 align="center">Hi 👋, I'm Kurt Cagulang</h1>
-<h3 align="center">A passionate full stack developer from Cebu, Philippines</h3>
+<h3 align="center">A passionate web developer from Cebu, Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/904528168689639178/739348009D1B10DEDEEDBE09FA03CD0B0E076922/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurtbuset&label=Profile%20views&color=0e75b6&style=flat" alt="kurtbuset" /> </p>
 
 - 🔭 I’m currently working on [Newsletter Sign Up](https://newsletter-sign-up-kurtdev.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/KurtSotto](https://www.frontendmentor.io/profile/KurtSotto)
+- 👨‍💻 All of my projects are available at [https://kortdev.vercel.app](https://kortdev.vercel.app)
 
 - 📫 How to reach me **kurtcagulang@gmail.com** 
 
